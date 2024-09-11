@@ -1,0 +1,113 @@
+Project Documentation for Kingsukh Guest House Website
+1. Project Overview
+The Kingsukh Guest House website is designed to provide information about the guest house, its amenities, services, and contact details. It also offers an easy way for potential customers to book rooms and get in touch with the guest house. The website includes sections for the home, about, services, rooms, gallery, and contact.
+
+2. Technologies Used
+HTML5: For the structure of the website.
+CSS3: For styling the website.
+JavaScript: For interactive elements.
+Remix Icon: For iconography.
+Google Fonts: For typography.
+Google Maps Embed API: For displaying the location map.
+
+3. Folder Structure
+css
+Copy code
+kingsukh-guest-house/
+│
+├── index.html
+├── css/
+│   ├── contact.css
+│   ├── gallary.css
+│   └── styles.css
+├── assets/
+│   ├── header.jpg
+│   ├── out.jpg
+│   ├── ayodhya.webp
+│   ├── small.jpg
+│   ├── large.jpg
+│   ├── palash.webp
+│   ├── baranti.webp
+│   ├── recep.jpg
+│   ├── flower.jpg
+│   ├── room1.jpg
+│   ├── mithonDam.webp
+│   ├── bg.jpg
+│   ├── facebook.png
+│   ├── instagram.png
+│   ├── youtube.png
+│   └── twitter.png
+├── images/
+│   ├── location.png
+│   ├── mail.png
+│   ├── call.png
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   └── 5.png
+└── main.js
+
+4. HTML Structure
+index.html: The main HTML file that includes all sections of the website.
+
+5. CSS Files
+styles.css: Contains general styles for the website, including layout, typography, and reusable classes.
+contact.css: Specific styles for the contact section of the website.
+gallary.css: Specific styles for the gallery section of the website.
+
+6. JavaScript
+main.js: Contains JavaScript code to handle the interactive elements of the website, such as menu toggling and scroll animations.
+
+7. Sections
+Header
+
+Contains navigation links and a hero section with the main call-to-action.
+Booking Section
+
+A section with a prominent booking button that redirects to WhatsApp.
+About Section
+
+Provides information about the guest house, including address and contact details.
+Rooms Section
+
+Showcases available rooms with images, descriptions, and prices.
+Services Section
+
+Lists the services provided by the guest house.
+Banner Section
+
+Displays statistics like bookings completed and happy customers.
+Gallery Section
+
+Showcases images of the guest house and surrounding areas.
+Contact Section
+
+Provides a contact form and additional contact information.
+Map
+
+Embedded Google Map showing the location of the guest house.
+Footer
+
+Contains quick links, services, and contact details along with social media icons.
+
+8. Key Features
+Responsive Design: The website is designed to be responsive and work well on various devices and screen sizes.
+Interactive Elements: JavaScript is used for interactivity, such as opening and closing the navigation menu.
+Booking Integration: Users can easily book rooms via a link to WhatsApp.
+Google Maps Integration: An embedded map shows the exact location of the guest house.
+
+9. Deployment
+The website can be deployed on any web server. Ensure all assets and links are correctly pointed to their respective paths.
+
+10. Usage Instructions
+Navigation: Use the navigation menu to browse different sections of the website.
+Booking: Click on any "BOOK NOW" button to initiate a booking via WhatsApp.
+Contact Form: Fill out the contact form with your details and message to get in touch with the guest house.
+Map: Use the embedded Google Map for directions to the guest house.
+
+11. Contact Information
+For any queries or further information, you can contact the guest house at:
+
+Phone: +91 9007062180
+Email: kkghosh0099@gmail.com
+Address: Beside Barshal Water Tank, Manpur, Barhanti, West Bengal 723156
